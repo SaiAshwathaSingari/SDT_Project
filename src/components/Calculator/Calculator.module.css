@@ -1,0 +1,32 @@
+.container {
+    padding: 20px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    background-color: #36a2eb;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #2b8fd0;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
